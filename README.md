@@ -40,7 +40,7 @@ A Python-based machine learning system for analyzing and forecasting e-commerce 
 git clone https://github.com/yourusername/ecommerce-traffic-predictor.git
 
 # Install required packages
-```pip install -r requirements.txt``` 
+pip install -r requirements.txt
 I will add the requirements.txt file later
 
 from predictor import ECommerceTrafficPredictor
